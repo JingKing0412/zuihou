@@ -1,6 +1,8 @@
+Cython
 joblib==0.17.0
 matplotlib==3.3.2
 numpy==2.0.2
+scikit-learn --only-binary :all:
 pandas==2.2.3   
-shap==0.47.1
+shap==0.47.1  
 streamlit==1.44.1
